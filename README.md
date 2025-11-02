@@ -17,18 +17,6 @@ Key features include:
 - JavaScript (for interactive enhancements)  
 - Git & GitHub for version control and hosting with GitHub Pages  
 
-## 📁 Repository Structure  
-/BeansAndBrewsCoffeeHouse/
-├── index.html ← Home page
-├── menu.html ← Menu listing drinks & prices
-├── franchises.html ← Franchise locations (future expansion)
-├── contact.html ← Contact page
-├── assets/ ← Images, icons, stylesheets
-│ ├── css/
-│ ├── images/
-│ └── js/
-└── README.md
-
 ## 🎯 How to View  
 1. Navigate to: `https://poornima-s-dev.github.io/BeansAndBrewsCoffeeHouse/`  
 2. Browse the pages using the navigation menu (Home | Menu | Franchises | Contact)  
